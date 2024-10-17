@@ -13,6 +13,7 @@ The name will be unambiguously assigned to the city. There will be no number or 
 Example of the maps:
 
 *#####*EE.FF*#####*
+
 .AA...#.....#...BB.
 ......#######......
 ...AAAA..#..BBBB...
